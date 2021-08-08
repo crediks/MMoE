@@ -1,2 +1,2 @@
 # MMoE
-MMoE complete by Tensorflow
+MMoE completed by Tensorflow
